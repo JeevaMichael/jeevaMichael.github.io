@@ -19,7 +19,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: cd exampleSite; hugo --gc -t ../.. -b https://sbruder.github.io/spectral/ --cleanDestinationDir
+        run: hugo --gc -t ../.. -b https://jeevamichael.github.io/ --cleanDestinationDir
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
