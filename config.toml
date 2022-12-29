@@ -32,9 +32,9 @@ title = "Posts"
 
 [params.one]
 enable = true
-title = 'About Us'
+title = 'ABOUT US'
 body = '''
-Enmin was founded as a result of our pursuit to guide industries towards digital transformation, but with the smallest footprint possible, thereby saving costs as well as planet earth.
+Enmin was founded as a result of our pursuit to guide industries towards digital transformation. We help our clients to grow their business and reduce operational costs in a rapidly changing business environment. Enmin provides the skills and solutions needed to improve the quality of your businesses with the minimal digital footprint possible, thereby saving costs as well as planet earth.
 '''
 
 [[params.one.icon]]
@@ -56,67 +56,67 @@ label = "Dolor"
 enable = true
 
 [[params.two.section]]
-img = "img/pic01.jpg"
-title = 'What we offer<br />sed ullamcorper'
-body = 'We can guide you on your journey towards digital transformation by providing services such as consultation, development and testing of various digital solutions.'
+img = "img/pexels-fauxels-3183197.jpg"
+title = 'WHAT WE OFFER<br />'
+body = 'We can guide you on your journey towards digital transformation by providing services such as consultation, development and testing of various digital solutions. We empower your business to become self-sufficient by training your resources. We can review your existing processes, provide both preventive and corrective action plan, recommend areas to improve and guide you to implement an efficient overall process. Our tech-savvy enthusiasts can help you navigate the challenges involved and deliver quality products quicker.'
 
 [[params.two.section]]
-img = "img/pic02.jpg"
-title = 'What we stand for<br />elementum magna'
-body = 'We stand for women empowerment , equality , love and any cause which makes our planet earth greener.'
+img = "img/pexels-fauxels-3182765.jpg"
+title = 'WHAT WE STAND FOR<br />'
+body = 'At Enmin, we put people first in everything we do. We respect each other and draw strength from our differences. We stand for women empowerment, equality and love. We want to make the environment greener and minimise digital waste.'
 
 [[params.two.section]]
-img = "img/pic03.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+img = "img/pexels-andrea-piacquadio-3771097.jpg"
+title = 'Benefits of working with ENMIN <br />'
+body = 'On the rapidly changing IT every day, we are passionate about our client success. We conduct our business with high ethical standards. We Protect your valuable information and brand reputation. We believe performance is an asset. We put your business improvement at the heart of all we do. At Enmin, you will always find the right solution for your needs and achieve the best possible result.'
 
 [params.three]
 enable = true
-title = 'Accumsan mus tortor nunc aliquet'
-body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
-'''
+title = 'OUR SERVICES'
+#body = '''
+#Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
+#fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+#'''
 
 [[params.three.feature]]
 icon = "fa-paper-plane-o"
-title = "Arcu accumsan"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Software Development services"
+body = "Application development is complex and dynamic. We build sophisticated business applications that withstand the fast-changing technology. Our team makes sure that your app is multi-tenant, secure and robust. Our practice specializes in application services that span the full software development life cycle"
 
 [[params.three.feature]]
 icon = "fa-laptop"
-title = "Ac Augue Eget"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Software Testing Services"
+body = "Enmin will help you prepare for the unpredictable. Our end- to- end approach makes sure your product ticks all the checkboxes when it comes to quality, usability and reliability. Our testing team ensures your product meet business and customer demands across functionality, compatibility, usability and reliability."
 
 [[params.three.feature]]
 icon = "fa-code"
-title = "Foo bar"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Consultation Services"
+body = "We offer advices on our clients most critical issues. Our team coaches you through every tech decision critical to you. We can build a better digital-world together."
 
 [[params.three.feature]]
 icon = "fa-headphones"
-title = "Baz kram"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Maintenance"
+body = "We don’t walk off after your new software solution is up and running. We are here for the entire journey. We assure you we will be on hand for post-deployment technical support and solve any minor problems that can pop up time to time."
 
 [[params.three.feature]]
 icon = "fa-heart-o"
-title = "Some latin text"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Updates"
+body = "We make updates a seamless process. We are here for any updates that your product needs as and when required. "
 
 [[params.three.feature]]
 icon = "fa-flag-o"
-title = "Nothing important"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Digital Marketing"
+body = "We are passionate tech people who think out of the box. We offer advices on how to manage your online presence and build reliable marketing assets using digital marketing."
 
 [params.cta]
 enable = true
-title = "Arcue ut vel commodo"
-body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+title = "Let's Collaborate"
+body = "You understand your business better than anyone, which is why the work we do with our clients is collaborative. Let’s join and multiply the success."
 
-[[params.cta.link]]
-href = "#"
-text = "Activate"
-special = true
+#[[params.cta.link]]
+#href = "#"
+#text = "Activate"
+#special = true
 
 [[params.cta.link]]
 href = "#"
