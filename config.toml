@@ -22,6 +22,22 @@ url = '/'
 title = "Home"
 
 [[params.menu.main]]
+url = '#one'
+title = "About Us"
+
+[[params.menu.main]]
+url = '#two'
+title = "Why work with us"
+
+[[params.menu.main]]
+url = '#three'
+title = "Our services"
+
+[[params.menu.main]]
+url = '#contact'
+title = "Contact Us"
+
+[[params.menu.main]]
 url = '/posts/'
 title = "Posts"
 
@@ -119,7 +135,7 @@ body = "You understand your business better than anyone, which is why the work w
 #special = true
 
 [[params.cta.link]]
-href = "#"
+href = "#contact"
 text = "Learn More"
 special = false
 
@@ -127,11 +143,11 @@ special = false
 enable = true
 title = "Contact"
 body = "Leave us a message."
-phone = "+49 (0) 030 000 000"
+phone = "+91 (0) 030 000 000"
 address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "nospam@example.com"
+email = "services@enmin.in"
 subject = "New Submission!"
-formspree_form_id = "example_invalid"
+formspree_form_id = "xbjejrrk"
 
 [params.social]
 twitter = ""
